@@ -29,7 +29,7 @@ This project aims to:
 ## Tools and Technologies
 
 ## Dashboard
-- <a href = "C:\Users\ASUS\Downloads\Ferns and Petals Dashboard.png">View Dashboard</a>
+- <a href = "[C:\Users\ASUS\Downloads\Ferns and Petals Dashboard.png](https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/Ferns%20and%20Petals%20Dashboard.png)">View Dashboard</a>
 
 
 ## Question KPIs
