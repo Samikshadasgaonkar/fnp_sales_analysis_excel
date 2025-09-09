@@ -31,17 +31,17 @@ This project aims to:
 ## Tools and Technologies
 Ms Excel
 ### Data Cleaning and Preparation
--Used Power Query for cleaning and transforming raw data.
+- Used Power Query for cleaning and transforming raw data.
 ### Data Modeling
--Created relationships between Orders, Customers, and Products tables.
+- Created relationships between Orders, Customers, and Products tables.
 ### Data Analysis
--Pivot Tables for summarization (orders, revenue, gender, locations)
--DAX calculations (e.g., Average Order Value, Order-Delivery difference)
+- Pivot Tables for summarization (orders, revenue, gender, locations)
+- DAX calculations (e.g., Average Order Value, Order-Delivery difference)
 -Aggregations: SUM, COUNT, AVERAGE
 ### Data Visualization
--Interactive Excel Dashboard with slicers
--Charts: Column, Bar, Line, Stacked Charts for comparisons
--KPIs: Total Orders, Revenue, Average Order Value, Delivery Gap
+- Interactive Excel Dashboard with slicers
+- Charts: Column, Bar, Line, Stacked Charts for comparisons
+- KPIs: Total Orders, Revenue, Average Order Value, Delivery Gap
 
 
 ## Dashboard
