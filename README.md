@@ -30,8 +30,8 @@ This project aims to:
 
 ## Tools and Technologies
 Ms Excel
-Data Cleaning and Preparation
-  a.Used Power Query for cleaning and transforming raw data.
+###Data Cleaning and Preparation
+-Used Power Query for cleaning and transforming raw data.
 - Data Modeling
 - Data Analysis
 - Data Visualization
