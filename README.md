@@ -15,13 +15,13 @@ Ferns and Petals is the online gifting company where you can order something for
 This project evaluates in depth analysis of Ferns and Petals(fnp) orders dataset , highlighing sales performance , customer behaviour & delivery patterns. 
 To help fnp know about thier overall sales i analyzed the data with the help of Ms Excel (Power query editor , Data Modeling , and Visualization)
 
-## Solved Business Problems
+## Business Problems
 This project aims to:
-- Identified top-performing categories and low-performing ones to guide product focus.
-- Showed which occasions bring seasonal spikes in orders.
-- Analyzed gender-based revenue contribution to tailor marketing campaigns.
-- Pinpointed cities/locations with longer delivery times for logistics improvement.
-- Created KPI to measure revenue per order and benchmark performance.
+- Identify top-performing categories and low-performing ones to guide product focus.
+- Show which occasions bring seasonal spikes in orders.
+- Analyze gender-based revenue contribution to tailor marketing campaigns.
+- Pinpoint cities/locations with longer delivery times for logistics improvement.
+- Create KPI to measure revenue per order and benchmark performance.
   
 ## Dataset Used
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/customers.csv">Customers.csv</a>
@@ -60,4 +60,9 @@ This project aims to:
 - What is the average order value and how does it vary by occasion or product category?
 
 ## Conclusion
+## Future Work
+## Author & Contact
+**Samiksha Dasgaonkar**
+- Email: samikshadasgaonkar2004@gmail.com
+- [Linkedin] (https://www.linkedin.com/in/samiksha-dasgaonkar)
 
