@@ -30,11 +30,19 @@ This project aims to:
 
 ## Tools and Technologies
 Ms Excel
-###Data Cleaning and Preparation
+### Data Cleaning and Preparation
 -Used Power Query for cleaning and transforming raw data.
-- Data Modeling
-- Data Analysis
-- Data Visualization
+### Data Modeling
+-Created relationships between Orders, Customers, and Products tables.
+### Data Analysis
+-Pivot Tables for summarization (orders, revenue, gender, locations)
+-DAX calculations (e.g., Average Order Value, Order-Delivery difference)
+-Aggregations: SUM, COUNT, AVERAGE
+### Data Visualization
+-Interactive Excel Dashboard with slicers
+-Charts: Column, Bar, Line, Stacked Charts for comparisons
+-KPIs: Total Orders, Revenue, Average Order Value, Delivery Gap
+
 
 ## Dashboard
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/Ferns%20and%20Petals%20Dashboard.png">View Dashboard</a>
