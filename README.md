@@ -1,4 +1,4 @@
-# Fnp Sales Analysis (Interactive Dashboard Creation using MS Excel)
+# Ferns and Petals Sales Analysis (Interactive Dashboard Creation using MS Excel)
 
 ## Short Summary
 Ferns and Petals is the online gifting company where you can order something for your friends and family. The fnp wants to analyze their sales performance so that the stakeholders can understand their customers and grow more in future.
