@@ -5,7 +5,7 @@ Ferns and Petals is the online gifting company where you can order something for
 
 ## Table of Contents
 - <a href = "Overview">Overview</a>
-- <a href = "Business Problems">Solved Business Problems</a>
+- <a href = "Solved Business Problems">Solved Business Problems</a>
 - <a href = "Dataset Used">Dataset Used</a>
 - <a href = "Tools and Technologies">Technologies</a>
 - <a href = "Dashboard">Dashboard</a>
@@ -13,7 +13,7 @@ Ferns and Petals is the online gifting company where you can order something for
 
 ## Overview
 This project evaluates in depth analysis of Ferns and Petals(fnp) orders dataset , highlighing sales performance , customer behaviour & delivery patterns. 
-To help fnp know about thier overall sales i analyzed the data with the help of Ms Excel (Power query editor , Data Model , and Visualization)
+To help fnp know about thier overall sales i analyzed the data with the help of Ms Excel (Power query editor , Data Modeling , and Visualization)
 
 ## Solved Business Problems
 This project aims to:
@@ -23,22 +23,22 @@ This project aims to:
 - Pinpointed cities/locations with longer delivery times for logistics improvement.
 - Created KPI to measure revenue per order and benchmark performance.
   
-## Dataset used
+## Dataset Used
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/customers.csv">Customers.csv</a>
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/orders.csv">Orders.csv</a>
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/products.csv">Products.csv</a>
 
 ## Tools and Technologies
-Ms Excel
-### Data Cleaning and Preparation
+### Ms Excel
+#### Data Cleaning and Preparation
 - Used Power Query for cleaning and transforming raw data.
-### Data Modeling
+#### Data Modeling
 - Created relationships between Orders, Customers, and Products tables.
-### Data Analysis
+#### Data Analysis
 - Pivot Tables for summarization (orders, revenue, gender, locations)
 - DAX calculations (e.g., Average Order Value, Order-Delivery difference)
 -Aggregations: SUM, COUNT, AVERAGE
-### Data Visualization
+#### Data Visualization
 - Interactive Excel Dashboard with slicers
 - Charts: Column, Bar, Line, Stacked Charts for comparisons
 - KPIs: Total Orders, Revenue, Average Order Value, Delivery Gap
@@ -58,3 +58,6 @@ Ms Excel
 - What is the gender distribution of FNP’s customer base?
 - Which locations face longer delivery times compared to others?
 - What is the average order value and how does it vary by occasion or product category?
+
+## Conclusion
+
