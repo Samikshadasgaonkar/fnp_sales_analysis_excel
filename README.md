@@ -7,6 +7,7 @@ Ferns and Petals is the online gifting company where you can order something for
 - <a href = "Overview">Overview</a>
 - <a href = "Business Problems">Business Problems</a>
 - <a href = "Dataset Used">Dataset Used</a>
+- <a href = "Question KPIs">Question KPIs</a>
 
 ## Overview
 This project evaluates in depth analysis of Ferns and Petals(fnp) orders dataset , highlighing sales performance , customer behaviour & delivery patterns. 
@@ -25,7 +26,10 @@ This project aims to:
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/orders.csv">Orders.csv</a>
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/products.csv">Products.csv</a>
 
-##Tools and Technologies
+## Tools and Technologies
+
+## Dashboard
+- <a href = "C:\Users\ASUS\Downloads\Ferns and Petals Dashboard.png">View Dashboard</a>
 
 
 ## Question KPIs
