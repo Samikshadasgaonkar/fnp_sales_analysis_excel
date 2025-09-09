@@ -62,7 +62,7 @@ This project aims to:
 ## Conclusion
 ## Future Work
 ## Author & Contact
-**Samiksha Dasgaonkar**
+-**Samiksha Dasgaonkar**
 - Email: samikshadasgaonkar2004@gmail.com
 - [Linkedin] (https://www.linkedin.com/in/samiksha-dasgaonkar)
 
