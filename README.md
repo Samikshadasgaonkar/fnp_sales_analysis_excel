@@ -1,7 +1,13 @@
 # Fnp Sales Analysis (Interactive Dashboard Creation using MS Excel)
 
 ## Short Summary
-Ferns and Petals is the online gifting company where you can order something for your friends and family. This project evaluates in depth analysis of Ferns and Petals(fnp) orders dataset , highlighing sales performance , customer behaviour & delivery patterns
+Ferns and Petals is the online gifting company where you can order something for your friends and family. The fnp wants to analyze their sales performance so that the stakeholders can understand theie customers and grow more in future.
+
+##Table of Contents
+- <a href = "Overview">Overview</a>
+
+## Overview
+This project evaluates in depth analysis of Ferns and Petals(fnp) orders dataset , highlighing sales performance , customer behaviour & delivery patterns
 
 ## Data used
 - <a href = "https://github.com/Samikshadasgaonkar/fnp_sales_analysis_excel/blob/main/customers.csv">Customers.csv</a>
