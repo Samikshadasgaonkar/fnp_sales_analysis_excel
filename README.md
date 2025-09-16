@@ -60,7 +60,21 @@ This project aims to:
 - What is the average order value and how does it vary by occasion or product category?
 
 ## Conclusion
+The analysis highlights that FNP’s sales are driven strongly by specific product categories (like Cakes and Flowers) and peak during festivals and special occasions. Male customers contribute slightly higher revenue than female customers, while certain cities face longer delivery times that may affect customer satisfaction.
+
+Orders are concentrated around specific days of the week and hours, showing potential to improve inventory planning and workforce allocation. The Average Order Value (₹3,520) provides a baseline for measuring future growth and setting upselling targets.
+
+By focusing on top-performing products, optimizing delivery in slower cities, and targeting promotions around high-demand days/months, FNP can increase revenue, improve customer experience, and strengthen operational efficiency.
+
 ## Future Work
+- Analyze customer demographics and buying behavior to design targeted marketing campaigns.
+
+- Use time-series forecasting to predict peak sales periods and optimize inventory.
+
+- Study delivery time patterns and explore ways to reduce delays in slower-performing cities.
+
+- Extend analysis to include cost data and identify the most profitable products/occasions
+
 ## Author & Contact
 - Samiksha Dasgaonkar
 - Data Analyst
